@@ -1,4 +1,6 @@
 Selamlar,
+Karate, Web Servis Test (API Test) yazmak için oluşturulmuş bir frameworktur. Cucumber-JVM üzerine inşa edilmiştir ve testlerinizi Cucumber-Gherkin formatında yazabilirsiniz. Karate kullanarak Java kodu neredeyse hiç yazmadan web servis testlerinizi kolaylıkla yazabilirsiniz.
+
 Karate kurulumu için pom.xml dosyasının içine archetype eklememiz gerekiyor.
 
 1. groupId: com.intuit.karate
