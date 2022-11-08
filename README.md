@@ -1,13 +1,9 @@
 Selamlar,
 Karate kurulumu için pom.xml dosyasının içine archetype eklememiz gerekiyor.
 
-<!-- https://mvnrepository.com/artifact/com.intuit.karate/karate-apache -->
-<dependency>
-    <groupId>com.intuit.karate</groupId>
-    <artifactId>karate-apache</artifactId>
-    <version>0.9.6</version>
-    <scope>test</scope>
-</dependency>
+groupId: com.intuit.karate
+artifactId: karate-apache
+version: 0.9.6
 
 Sonrasında projeyi oluşturduğumuzda dependency ler hazır olarak gelecektir.
 
